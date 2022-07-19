@@ -7,5 +7,16 @@
 body
 {
     font-family: 'cormorant garamond', serif;
+}
 
+.ewk_navbar{
+    background-color:rgba(255,255,255,0.7) !important;
+}
+
+.ewk_navbar div, .ewk_navbar ul{
+    background-color: transparent !important;
+}
+
+.ewk_cont_sec_1{
+    padding: 10%;
 }
