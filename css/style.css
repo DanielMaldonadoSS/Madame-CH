@@ -20,3 +20,14 @@ body
 .ewk_cont_sec_1{
     padding: 10%;
 }
+
+.ewk_cont_sec_1_link{
+    padding: 5%;
+}
+
+.ewk_cont_sec_1_link a{
+    width: 200px;
+}
+.ewk_cont_sec_1 hr{
+    border-top: 1px solid rgba(1, 1, 1, 0.3);
+}
